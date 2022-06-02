@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Rajdhani:wght@500&display=swap');
+body {
+    background-color: rgb(247, 102, 186);
+    font: normal 15pt;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+select#flista {
+    width: 150px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
